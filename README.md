@@ -1,3 +1,5 @@
+#Financial-Data-Analysis-python
+
 #Financial Data Pipeline: Comparative Analysis of Tesla and GameStop
 ​##📋 Project Description
 ​This project implements a robust data pipeline to extract, process, and visualize the relationship between corporate revenue and stock market performance. By leveraging both API integration and automated web scraping, the analysis provides a visual correlation between a company's fundamental financial health and its historical share price.
