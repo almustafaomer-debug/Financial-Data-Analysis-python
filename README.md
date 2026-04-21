@@ -1,5 +1,5 @@
-# Financial-Data-Analysis-python
-​#📊 Tesla & GameStop: Stock vs. Revenue Analysis
+#📊 Tesla & GameStop: Stock vs. Revenue Analysis
+​
 ​"Successfully extracted and visualized historical financial data for Tesla and GameStop to analyze market trends."
 ​🛠️ The "Legendary" Details:
 ​Score: 90% (Legendary Performance)
