@@ -129,7 +129,7 @@ This project is provided as-is for educational purposes.
 
 ### 👨‍💻 Author
 
-**almustafaomer-debug**
+**ELMUSTAFA OSMAN**
 
 ---
 
